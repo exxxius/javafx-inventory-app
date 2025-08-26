@@ -17,13 +17,11 @@ A comprehensive desktop application for managing an inventory of parts and produ
 
 ## Screenshots
 
-Here's a look at the application in action.
+Here is a look at the application in action.
 
-| Main Screen | Add Part Screen |
-| :---: | :---: |
-| <img src="https://github.com/exxxius/javafx-inventory-app/blob/master/main-screen.png?raw=true" alt="Main Screen" width="450"/> | <img src="https://github.com/exxxius/javafx-inventory-app/blob/master/add-part-screen.png?raw=true" alt="Add Part Screen" width="450"/> |
-| **Modify Part Screen** | **Add Product Screen** |
-| <img src="https://github.com/exxxius/javafx-inventory-app/blob/master/modify-part-screen.png?raw=true" alt="Modify Part Screen" width="450"/> | <img src="https://github.com/exxxius/javafx-inventory-app/blob/master/add-product-screen.png?raw=true" alt="Add Product Screen" width="450"/> |
+| Main Form                                                                                               | Add Part Form                                                                                                 | Add Product Form                                                                                                   |
+| :------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/exxxius/javafx-inventory-app/blob/master/mainform.png?raw=true" alt="Main Form" width="400"/> | <img src="https://github.com/exxxius/javafx-inventory-app/blob/master/addpartform.png?raw=true" alt="Add Part Form" width="400"/> | <img src="https://github.com/exxxius/javafx-inventory-app/blob/master/addproductform.png?raw=true" alt="Add Product Form" width="400"/> |
 
 ---
 
